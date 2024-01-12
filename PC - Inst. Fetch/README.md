@@ -1,0 +1,2 @@
+
+In the PC to Instruction Fetch stage of the processor, the focus is on retrieving instructions from memory based on the current Program Counter (PC) value. The Program Counter is incremented to point to the next instruction in memory. This ensures a sequential fetch of instructions. The processor interacts with the memory subsystem to fetch the instruction located at the address specified by the updated Program Counter. This often involves sending a memory read request.
